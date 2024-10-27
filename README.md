@@ -5,5 +5,5 @@ This project focuses on analyzing Amazon sales data using SQL, Power BI, and Exc
 
 
 
-##Datasets Used
+Datasets Used
 - <a href="https://github.com/Abhinavps9364/Amazon_data_analysis/blob/main/Amazon%20Sales%20data123.csv">dataset<a/>
