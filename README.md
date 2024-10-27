@@ -15,3 +15,6 @@ Datasets Used
 - **Average Order Value (AOV)**: Revenue per transaction.
 - **Conversion Rate**: Percentage of visitors who complete a purchase.
 - **Customer Retention Rate**: Analysis of repeat purchases over time.
+
+## Dashboard
+- <a href="https://github.com/Abhinavps9364/Amazon_data_analysis/blob/main/Screenshot%202024-09-26%20173623.pn">Dashboard<a/>
