@@ -30,3 +30,22 @@ Datasets Used
 
 ## Dashboard
 [Dashboard](https://github.com/Abhinavps9364/Amazon_data_analysis/blob/main/Screenshot%202024-09-26%20173623.png)
+
+### Methodology
+
+**Data Extraction**:
+- Utilize SQL to query the Amazon sales database and extract relevant sales data.
+- Export the queried data into Excel for initial analysis.
+
+**Data Transformation**:
+- Use Excel to clean and manipulate the data, including handling missing values and aggregating sales data by month and year.
+- Calculate key metrics such as total sales, AOV, and conversion rates.
+
+**Data Loading**:
+- Load the cleaned data into Power BI for visualization.
+- Create dashboards that display trends and key metrics interactively.
+
+**Analysis**:
+- Use Power BI to analyze visualizations and identify patterns in the sales data.
+- Explore relationships between sales performance and factors like promotions and seasonal trends.
+
