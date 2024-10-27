@@ -7,6 +7,18 @@ This project focuses on analyzing Amazon sales data using SQL, Power BI, and Exc
 
 Datasets Used
 - <a href="https://github.com/Abhinavps9364/Amazon_data_analysis/blob/main/Amazon%20Sales%20data123.csv">dataset<a/>
+## Objectives
+
+- Extract sales data from Amazon (or a simulated dataset) using SQL.
+- Transform the data to derive month-wise, year-wise, and yearly-month-wise sales trends.
+- Load the processed data into Power BI for visualization and analysis.
+- Identify key performance metrics (KPIs) to establish meaningful relationships in sales performance.
+
+## Tools and Technologies
+
+- **Data Extraction**: SQL for querying and extracting data from databases.
+- **Data Transformation**: Excel for data manipulation and calculations.
+- **Data Visualization**: Power BI for creating interactive dashboards and reports.
 
 ### Key Metrics to Analyze
 
